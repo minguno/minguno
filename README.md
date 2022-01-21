@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=E3A6AE&height=300&section=header&text=minguno.&fontSize=90&fontAlign=72)
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lifewithoutcucumber)](https://solved.ac/lifewithoutcucumber/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lifewithoutcucmber)](https://solved.ac/lifewithoutcucmber/)
 
 <!--
 **minguno/minguno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
