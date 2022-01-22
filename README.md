@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning ...
 ---
-- Python 3.9.9 with VSCode, PyCharm, Jupyter Notebook
+- Python 3.9.9 with VSCode, PyCharm, and Jupyter Notebook
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lifewithoutcucmber)](https://solved.ac/lifewithoutcucmber/)
