@@ -5,7 +5,9 @@
 🌱 I’m currently learning ...
 ---
 - Python
-- 
+
+with VSCode, PyCharm, Jupyter Notebook
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lifewithoutcucmber)](https://solved.ac/lifewithoutcucmber/)
 
