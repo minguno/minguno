@@ -4,7 +4,8 @@
 
 🌱 I’m currently learning ...
 ---
-Python 3.9.9 with VSCode, PyCharm, and Jupyter Notebook\n
+Python 3.9.9 with VSCode, PyCharm, and Jupyter Notebook
+
 HTML, CSS with VSCode
 
 
