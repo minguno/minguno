@@ -6,7 +6,7 @@
 ---
 Python 3.9.9 with VSCode, PyCharm, and Jupyter Notebook
 
-HTML, CSS with VSCode
+HTML, CSS, BootStrap, JavaScript with VSCode
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lifewithoutcucmber)](https://solved.ac/lifewithoutcucmber/)
