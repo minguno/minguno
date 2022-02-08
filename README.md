@@ -8,7 +8,6 @@
 
 🌱 I’m currently learning ...
 ---
-<br></br>
 Python 3.9.9 with VSCode, PyCharm, and Jupyter Notebook
 
 HTML, CSS, BootStrap, JavaScript with VSCode
