@@ -2,12 +2,20 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=E3A6AE&height=300&section=header&text=minguno.&fontSize=90&fontAlign=72)
 
+<br></br>
+<br></br>
+<br></br>
+
 🌱 I’m currently learning ...
 ---
+<br></br>
 Python 3.9.9 with VSCode, PyCharm, and Jupyter Notebook
 
 HTML, CSS, BootStrap, JavaScript with VSCode
 
+<br></br>
+<br></br>
+<br></br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lifewithoutcucmber)](https://solved.ac/lifewithoutcucmber/)
 
