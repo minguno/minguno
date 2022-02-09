@@ -10,6 +10,8 @@
 ---
 Python 3.9.9 with VSCode, PyCharm, and Jupyter Notebook
 
+Pypy3 with PyCharm
+
 HTML, CSS, BootStrap, JavaScript with VSCode
 
 <br></br>
